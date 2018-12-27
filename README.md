@@ -19,3 +19,4 @@ Add the entire folder to your github and submit the link
 Note: This mini-project has been adapted from from Harvard University's statistical software workshop. Feel free to check out the link for more info and solutions.
 
 Here's the project evaluation rubric.
+
